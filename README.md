@@ -13,3 +13,7 @@ This file contains methods to pull data for known pulsars, create a dataframe co
 ## Single_psr_plotsandstats
 
 This file contains machinery to calculate correlations between pulsars and their control sources, and to create normalized fluxes for each pulsar with respect to their control source. Also contains some code for making lightcurves and getting images for each pulsar observation.
+
+## Truncate_controls
+
+Notebook to select controls, decreasing the number of candidate control sources and therefore decreasing processing time.
